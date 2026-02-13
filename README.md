@@ -33,6 +33,8 @@ OpenAI Playground or ChatGPT interface
 
 Python 3.9+ installed locally (optional, for simulating API workflows)
 
+---
+
 #### Exercise 0: Environment and libraries
 **Objective:** Set up the environment for Python development.
 
@@ -42,6 +44,8 @@ Verify installation by running:
 
 python --version
 Write and execute a Hello, World! program.
+
+---
 
 #### Exercise 1: Simulating Multiple Roles
 **Objective:** Understand how roles affect the model’s perspective.
@@ -58,6 +62,8 @@ Critic → skeptical tone
 
 Compare how the answers differ.
 
+---
+
 #### Exercise 2: Role-Based Mentoring and Feedback
 **Objective:** Use role-based prompts for personalized feedback.
 
@@ -68,6 +74,8 @@ Provide a simple piece of code (e.g., a Python function with a bug).
 Prompt the model: "Act as a mentor reviewing this code. Provide corrections and explain improvements."
 
 Review the response and check if the role influences feedback style.
+
+---
 
 #### Exercise 3: Tone Variation with the Same Task
 **Objective:** Control tone and style with explicit instructions.
@@ -81,6 +89,8 @@ One for a **friendly tone**
 One for a **professional tone**
 
 Compare the outputs and note how the tone changes while the content stays consistent.
+
+---
 
 ### Submission
 Provide all exercises. For each exercise include the prompts, model outputs, and a brief sentence analysis explaining how tone, persona, or role instructions influence content, style, or reasoning. Ensure each role or tone produces clearly distinct outputs, and differences are documented.
